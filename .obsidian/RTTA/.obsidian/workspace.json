@@ -1,34 +1,18 @@
 {
   "main": {
-    "id": "2afebd162cadb9ed",
+    "id": "77988973b652916c",
     "type": "split",
     "children": [
       {
-        "id": "8751cfe69fc2dbf8",
+        "id": "3957ad4e6dd55239",
         "type": "tabs",
         "children": [
           {
-            "id": "20ae40a510b29341",
+            "id": "2f9cf672a426e4a0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PROD/Road Map.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c864cc8f326ea415",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tactical Phase/NME TAG/Strategic Tag.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -37,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "913fdd4b8b34abb0",
+    "id": "072898697606fb1e",
     "type": "split",
     "children": [
       {
-        "id": "61b0c2329ed98b5a",
+        "id": "2d3fec051940f415",
         "type": "tabs",
         "children": [
           {
-            "id": "107539eaa32bba95",
+            "id": "88f563b728de82d4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,7 +39,7 @@
             }
           },
           {
-            "id": "df6b6dcd1403123b",
+            "id": "065ef826fcfe0c5a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -70,7 +54,7 @@
             }
           },
           {
-            "id": "22e38fdf3b0242cd",
+            "id": "36d63c3fa380e5de",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -84,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "016f5b3de2fec6d5",
+    "id": "50c79124e220fdcc",
     "type": "split",
     "children": [
       {
-        "id": "6b3d3ee62f6d4b3b",
+        "id": "7ec6897d624f3e86",
         "type": "tabs",
         "children": [
           {
-            "id": "45a11d4ea179f4d4",
+            "id": "6ca6a755cce78e3b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROD/Road Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,19 +92,18 @@
             }
           },
           {
-            "id": "79fb7e008d6be700",
+            "id": "005fb6286da5374a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROD/Road Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "dcb34461f08fc635",
+            "id": "0c46b918513c0dd7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,29 +114,19 @@
             }
           },
           {
-            "id": "b7943232fc6cd6e1",
+            "id": "5c5fb2a2fe2c4b7b",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PROD/Road Map.md"
-              }
-            }
-          },
-          {
-            "id": "9cc44a67bf5304dc",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,16 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20ae40a510b29341",
-  "lastOpenFiles": [
-    "Tactical Phase/NME TAG/Strategic Tag.md",
-    "PROD/Road Map.md",
-    "MEDIA",
-    "MEDIA/ST.png",
-    "Tactical Phase/NME TAG",
-    "Tactical Phase",
-    "PROD",
-    "Tactical Phase/Paolo",
-    "Obsi_ErasTacticalRPG"
-  ]
+  "active": "2f9cf672a426e4a0",
+  "lastOpenFiles": []
 }
