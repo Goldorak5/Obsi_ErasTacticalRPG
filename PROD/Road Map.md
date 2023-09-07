@@ -13,6 +13,7 @@
 
 ### Core Feature / Overworld {Prog}
 
-- [ ] Paolo Movements  
+- [ ] Paolo Movements  Battle (Mouse)
+- [x] Paolo FreeMotion
 - [ ] Scene Swap when a NME is touched in the Overworld Scene.  
 - [ ] Pause Menu / Inventory
