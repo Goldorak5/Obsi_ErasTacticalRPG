@@ -13,18 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROD/Road Map.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c864cc8f326ea415",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Tactical Phase/NME TAG/Strategic Tag.md",
                 "mode": "source",
                 "source": false
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROD/Road Map.md",
+                "file": "Tactical Phase/NME TAG/Strategic Tag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROD/Road Map.md",
+                "file": "Tactical Phase/NME TAG/Strategic Tag.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROD/Road Map.md"
+                "file": "Tactical Phase/NME TAG/Strategic Tag.md"
               }
             }
           },
@@ -168,7 +156,11 @@
   },
   "active": "20ae40a510b29341",
   "lastOpenFiles": [
+    "Tactical Phase/NME TAG/Feral Tag.md",
+    "Tactical Phase/NME TAG/Distance Tag.md",
     "Tactical Phase/NME TAG/Strategic Tag.md",
+    "MEDIA/LT.png",
+    "MEDIA/FT.png",
     "PROD/Road Map.md",
     "MEDIA",
     "MEDIA/ST.png",
