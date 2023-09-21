@@ -2,8 +2,8 @@
 
 - [ ] First Scene Level Design  (Roaring Workshop)
 - [ ] Paolo Starting Moveset in Tactical Phase (3)
-- [ ] Training Drone Moveset in Tactical Phase (2)
-- [ ] UI Roulette/ UI Transition Documentation
+- [x] Training Drone Moveset in Tactical Phase (2)
+- [x] UI Roulette/ UI Transition Documentation
 
 ### Core Feature {Art}
 
