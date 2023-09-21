@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tactical Phase/NME TAG/Strategic Tag.md",
+                "file": "PROD/Sprint 01 - 04.10.2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tactical Phase/NME TAG/Strategic Tag.md",
+                "file": "PROD/Sprint 01 - 04.10.2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tactical Phase/NME TAG/Strategic Tag.md",
+                "file": "PROD/Sprint 01 - 04.10.2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tactical Phase/NME TAG/Strategic Tag.md"
+                "file": "PROD/Sprint 01 - 04.10.2023.md"
               }
             }
           },
@@ -156,15 +156,24 @@
   },
   "active": "20ae40a510b29341",
   "lastOpenFiles": [
-    "Tactical Phase/NME TAG/Feral Tag.md",
-    "Tactical Phase/NME TAG/Distance Tag.md",
-    "Tactical Phase/NME TAG/Strategic Tag.md",
+    "Tactical Phase/UI/Tactical Phase UI Interactions.md",
+    "Tactical Phase/Paolo/Paolo Skillset.md",
+    "Tactical Phase/NME/Modern Bestiary/Training Drone.md",
+    "PROD/Sprint 01 - 04.10.2023.md",
+    "Tactical Phase/NME/NME TAG/Distance Tag.md",
+    "Tactical Phase/NME/Modern Bestiary",
+    "Tactical Phase/NME/Training Drone.md",
+    "Tactical Phase/NME/Modern Bestiary.md",
+    "Tactical Phase/NME/NME TAG/Feral Tag.md",
+    "Tactical Phase/NME/NME TAG/Strategic Tag.md",
+    "Tactical Phase/NME",
+    "Tactical Phase/NME.md",
+    "Tactical Phase/UI",
     "MEDIA/LT.png",
     "MEDIA/FT.png",
-    "PROD/Road Map.md",
     "MEDIA",
     "MEDIA/ST.png",
-    "Tactical Phase/NME TAG",
+    "Tactical Phase/NME/NME TAG",
     "Tactical Phase",
     "PROD",
     "Tactical Phase/Paolo",
