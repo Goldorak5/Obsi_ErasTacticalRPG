@@ -2,9 +2,9 @@
 
 - [ ] Roaring Mechanics Level Design Sketch - Overworld
 - Roaring Mechanics NME Layout Sketch
-- [ ] Cheering Mechanics (Exploration) 
+- [x] Cheering Mechanics (Exploration) 
 - [ ] Spawning Character Array Documentation (Combat)
-- [ ] Roaring Workbot NME documentation
+- [x] Roaring Workbot NME documentation
 
 ### Core Feature {Art}
 

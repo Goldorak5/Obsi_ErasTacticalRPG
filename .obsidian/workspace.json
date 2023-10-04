@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "908e1d3fa609487d",
+            "id": "5b890d6de92bef59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROD/Sprint 02 - 18.10.2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "afe1195dfef82b1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PROD/BACKLOG.md",
+                "file": "Tactical Phase/UI/Tactical Phase - UI Interactif.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROD/Sprint 02 - 18.10.2023.md",
+                "file": "Tactical Phase/UI/Tactical Phase - UI Interactif.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROD/Sprint 02 - 18.10.2023.md",
+                "file": "Tactical Phase/UI/Tactical Phase - UI Interactif.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROD/Sprint 02 - 18.10.2023.md"
+                "file": "Tactical Phase/UI/Tactical Phase - UI Interactif.md"
               }
             }
           },
@@ -176,27 +164,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "908e1d3fa609487d",
+  "active": "5b890d6de92bef59",
   "lastOpenFiles": [
-    "PROD/Sprint 01 - CLOSED.md",
-    "PROD/Sprint 02 - 18.10.2023.md",
-    "PROD/BACKLOG.md",
-    "Tactical Phase/NME/Modern Bestiary/Training Drone.md",
+    "Tactical Phase/Tactical Phase Ruleset/Cheering-Demotivation Mechanics.md",
     "Tactical Phase/Paolo/Paolo Skillset.md",
-    "MEDIA/Engrenage.png",
+    "Tactical Phase/NME/Modern Bestiary/Junkyard Workbot.md",
+    "Tactical Phase/NME/Modern Bestiary/Training Drone.md",
+    "PROD/Sprint 02 - 18.10.2023.md",
+    "Tactical Phase/Tactical Phase Ruleset/Spawn Setup.md",
+    "PROD/Sprint 01 - CLOSED.md",
+    "PROD/BACKLOG.md",
+    "MEDIA/2023-10-04 16-12-50.mkv",
     "Tactical Phase/UI/Tactical Phase - UI Interactif.md",
+    "Tactical Phase/Tactical Phase Ruleset",
+    "MEDIA/Workbot 02.png",
+    "MEDIA/Workbot 01.png",
+    "Tactical Phase/NME/NME TAG/Strategic Tag.md",
+    "Tactical Phase/NME/NME TAG/Feral Tag.md",
+    "MEDIA/Junkyard Workbot.png",
+    "MEDIA/Engrenage.png",
     "MEDIA/Électro.png",
     "MEDIA/Pince 1.png",
     "MEDIA/Pince.png",
-    "Tactical Phase/NME/NME TAG/Strategic Tag.md",
-    "Tactical Phase/NME/NME TAG/Feral Tag.md",
     "Tactical Phase/NME/NME TAG/Distance Tag.md",
     "MEDIA/Training Drone.png",
     "MEDIA/Clé à Molette.png",
     "MEDIA/Paolo Punch.png",
-    "MEDIA/fG6jtn1.png",
-    "MEDIA/tumblr_o1qmk8s4TR1rn26jfo3_500.gif",
-    "MEDIA/ui paolo.png",
     "Tactical Phase/NME/Modern Bestiary",
     "Tactical Phase/NME/Training Drone.md",
     "Tactical Phase/NME/Modern Bestiary.md",
@@ -207,7 +200,6 @@
     "Tactical Phase/NME/NME TAG",
     "Tactical Phase",
     "PROD",
-    "Tactical Phase/Paolo",
-    "Obsi_ErasTacticalRPG"
+    "Tactical Phase/Paolo"
   ]
 }

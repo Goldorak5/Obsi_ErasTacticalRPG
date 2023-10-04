@@ -3,7 +3,6 @@
 
 ### Core Feature {Design}
 
-- [ ] First Scene Level Design  (Roaring Workshop) (X)
 - [x] Paolo Starting Moveset in Tactical Phase (3)
 - [x] Training Drone Moveset in Tactical Phase (2)
 - [x] UI Roulette/ UI Transition Documentation
@@ -21,10 +20,6 @@
 
 - [x] Paolo Movements (FreeMotion)
 - [x] Paolo Battle movement (mouse)
-- [ ] UI Roulette for Game Feel (X) 
-- [ ] UI Transition for buttons (Attack / Movement / Skills) - (X) 
-- [ ] Dexterity Check on edges (Another kind of movement) (X)
-- [ ] Create Training Drone NME  (X)
 - [x] Set GitHub  **CRITICAL**
 - [x] Set Unity **CRITICAL**
 - [x] Set Obsidian **CRITICAL

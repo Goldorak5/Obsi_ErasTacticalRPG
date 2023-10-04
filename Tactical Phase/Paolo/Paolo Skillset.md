@@ -29,7 +29,7 @@ Engrenage
 ****
 À l'aide de sa clé à molette, Paolo déboulonne une cible robotique.
 
-Effet: Cause 2 'Clickers' (6) de dégât à la cible et diminue sont dégât pour le prochain tour de 1 Clicker.  
+Effet: Cause 2 'Clickers' (6) de dégât à la cible et diminue sont dégât pour le prochain tour de 1 Clicker (ne peut pas être sous 1 Clickers).  
 
 Tour de surchauffe: 1
 

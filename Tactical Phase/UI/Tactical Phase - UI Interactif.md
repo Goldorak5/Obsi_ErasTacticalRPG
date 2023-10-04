@@ -1,4 +1,3 @@
-
 ## Tactical Phase Interface des personnages 
 
 Visuellement les icônes suivant sont toujours visibles au dessus des personnages jouables par le joueur: 
