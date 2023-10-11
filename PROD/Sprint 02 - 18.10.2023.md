@@ -17,6 +17,7 @@
 ### Core Feature {Prog}
 
 
-- [ ] Select Actors in combat **CRITICAL**
-- [ ] Create Debug Menu (skills - navigation)
-- [ ] Spawning Character Feature (Combat) 
+- [x] Select Actors in combat **CRITICAL**
+- [x] Create Debug Menu (skills - navigation)
+- [x] Spawning Character Feature (Combat) 
+- [ ] Cant Move after been Spawn 
