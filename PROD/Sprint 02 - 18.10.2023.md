@@ -20,4 +20,4 @@
 - [x] Select Actors in combat **CRITICAL**
 - [x] Create Debug Menu (skills - navigation)
 - [x] Spawning Character Feature (Combat) 
-- [ ] Cant Move after been Spawn 
+- [x] Cant Move after been Spawn 
