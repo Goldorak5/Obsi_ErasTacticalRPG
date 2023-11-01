@@ -1,4 +1,24 @@
-**Arme Disponible actuellement par personnage:**
+![[paolo mugshot.png]]
+*Type*: Organique
+
+*Armure de base* : 15
+*Vitalité de base*: 10
+
+*Clickers*: 1 (6)
+
+*Point de Mouvement de base* : 3
+*Dextérité de base* : 1
+
+Force: 1
+Dextérité: 1
+Précision: 1
+Vitesse: 3
+
+Armure: 15
+Vitalité: 10
+
+
+**Arme de départ portée par Paolo:**
 
 **Paolo**
 - Coup de Poing (Case devant Paolo)

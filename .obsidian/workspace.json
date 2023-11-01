@@ -8,18 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5b890d6de92bef59",
+            "id": "86a1d449ed1cdfe8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tactical Phase/UI/Tactical Phase - UI Interactif.md",
+                "file": "Tactical Phase/Tactical Phase Ruleset/Turns Order.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "593fc8359d821d50",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tactical Phase/UI/Tactical Phase - UI Interactif.md",
+                "file": "Tactical Phase/Tactical Phase Ruleset/Turns Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tactical Phase/UI/Tactical Phase - UI Interactif.md",
+                "file": "Tactical Phase/Tactical Phase Ruleset/Turns Order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tactical Phase/UI/Tactical Phase - UI Interactif.md"
+                "file": "Tactical Phase/Tactical Phase Ruleset/Turns Order.md"
               }
             }
           },
@@ -164,32 +175,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b890d6de92bef59",
+  "active": "593fc8359d821d50",
   "lastOpenFiles": [
-    "Tactical Phase/Tactical Phase Ruleset/Cheering-Demotivation Mechanics.md",
-    "Tactical Phase/Paolo/Paolo Skillset.md",
-    "Tactical Phase/NME/Modern Bestiary/Junkyard Workbot.md",
-    "Tactical Phase/NME/Modern Bestiary/Training Drone.md",
-    "PROD/Sprint 02 - 18.10.2023.md",
     "Tactical Phase/Tactical Phase Ruleset/Spawn Setup.md",
-    "PROD/Sprint 01 - CLOSED.md",
+    "Tactical Phase/Tactical Phase Ruleset/Clickers System.md",
+    "Tactical Phase/Tactical Phase Ruleset/Turns Order.md",
+    "MEDIA/placement2.jpg",
+    "MEDIA/placement1.jpg",
+    "Tactical Phase/Tactical Phase Ruleset/Cheering-Demotivation Mechanics.md",
+    "PROD/Sprint 03 - 01.11.2023.md",
+    "Tactical Phase/Player Character/Paolo Profile.md",
+    "MEDIA/paolo mugshot.png",
+    "Tactical Phase/Player Character/Paolo Skillset.md",
+    "Tactical Phase/NME/Modern Bestiary/Junkyard Workbot.md",
     "PROD/BACKLOG.md",
-    "MEDIA/2023-10-04 16-12-50.mkv",
+    "PROD/Sprint 01 - CLOSED.md",
+    "PROD/Sprint 02 - 18.10.2023.md",
+    "Tactical Phase/NME/NME TAG/Distance Tag.md",
+    "Tactical Phase/NME/NME TAG/Feral Tag.md",
+    "Tactical Phase/NME/NME TAG/Strategic Tag.md",
+    "Tactical Phase/NME/Modern Bestiary/Training Drone.md",
     "Tactical Phase/UI/Tactical Phase - UI Interactif.md",
+    "MEDIA/2023-10-04 16-12-50.mkv",
     "Tactical Phase/Tactical Phase Ruleset",
     "MEDIA/Workbot 02.png",
     "MEDIA/Workbot 01.png",
-    "Tactical Phase/NME/NME TAG/Strategic Tag.md",
-    "Tactical Phase/NME/NME TAG/Feral Tag.md",
     "MEDIA/Junkyard Workbot.png",
     "MEDIA/Engrenage.png",
     "MEDIA/Électro.png",
     "MEDIA/Pince 1.png",
     "MEDIA/Pince.png",
-    "Tactical Phase/NME/NME TAG/Distance Tag.md",
-    "MEDIA/Training Drone.png",
-    "MEDIA/Clé à Molette.png",
-    "MEDIA/Paolo Punch.png",
     "Tactical Phase/NME/Modern Bestiary",
     "Tactical Phase/NME/Training Drone.md",
     "Tactical Phase/NME/Modern Bestiary.md",
@@ -200,6 +215,6 @@
     "Tactical Phase/NME/NME TAG",
     "Tactical Phase",
     "PROD",
-    "Tactical Phase/Paolo"
+    "Tactical Phase/Player Character"
   ]
 }

@@ -3,6 +3,9 @@
 
 ### Core Feature {Art}
 
+- [ ] Paolo Combat Animation  
+- [ ] Training Drone Combat Animation
+- [ ] Roaring Workbot Combat Animation
 
 ### Core Feature {Prog}
 
