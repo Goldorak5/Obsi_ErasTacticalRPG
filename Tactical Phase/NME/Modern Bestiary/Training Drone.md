@@ -6,7 +6,7 @@
 
 *Clickers*: 1 (6)
 
-*Point de Mouvement*: 3
+*Point de Mouvement*: Entre 1-3
 *Dextérité*: 2
 
 *Tag*: Distance Tag

@@ -6,7 +6,7 @@
 
 *Clickers*: 1 (6)
 
-*Point de Mouvement*: 4
+*Point de Mouvement*: Entre 2-4
 *Dextérité*: 1
 
 *Tag*: Offensive Tag

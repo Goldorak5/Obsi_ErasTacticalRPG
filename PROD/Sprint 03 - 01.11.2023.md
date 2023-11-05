@@ -1,8 +1,8 @@
 ### Core Feature {Design}
 
-- [ ] Clickers Documentation
+- [x] Clickers Documentation
 - [ ] Defensive Action - Player Characters
-- [ ] Turns Order
+- [x] Turns Order
 - [ ] Idealisation Process for UI elements
 - [x] Character Profile - Paolo
 

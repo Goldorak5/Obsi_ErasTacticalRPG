@@ -8,29 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "86a1d449ed1cdfe8",
+            "id": "593fc8359d821d50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tactical Phase/Tactical Phase Ruleset/Turns Order.md",
+                "file": "PROD/Sprint 03 - 01.11.2023.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "593fc8359d821d50",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tactical Phase/Tactical Phase Ruleset/Turns Order.md",
+                "file": "PROD/Sprint 03 - 01.11.2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tactical Phase/Tactical Phase Ruleset/Turns Order.md",
+                "file": "PROD/Sprint 03 - 01.11.2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tactical Phase/Tactical Phase Ruleset/Turns Order.md"
+                "file": "PROD/Sprint 03 - 01.11.2023.md"
               }
             }
           },
@@ -177,24 +166,25 @@
   },
   "active": "593fc8359d821d50",
   "lastOpenFiles": [
-    "Tactical Phase/Tactical Phase Ruleset/Spawn Setup.md",
-    "Tactical Phase/Tactical Phase Ruleset/Clickers System.md",
-    "Tactical Phase/Tactical Phase Ruleset/Turns Order.md",
-    "MEDIA/placement2.jpg",
-    "MEDIA/placement1.jpg",
-    "Tactical Phase/Tactical Phase Ruleset/Cheering-Demotivation Mechanics.md",
+    "Tactical Phase/Tactical Phase Ruleset/Defensive Actions.md",
     "PROD/Sprint 03 - 01.11.2023.md",
     "Tactical Phase/Player Character/Paolo Profile.md",
+    "Tactical Phase/Tactical Phase Ruleset/Clickers System.md",
+    "Tactical Phase/NME/Modern Bestiary/Junkyard Workbot.md",
+    "Tactical Phase/Tactical Phase Ruleset/Turns Order.md",
+    "Tactical Phase/Tactical Phase Ruleset/Spawn Setup.md",
+    "Tactical Phase/Tactical Phase Ruleset/Cheering-Demotivation Mechanics.md",
+    "Tactical Phase/NME/Modern Bestiary/Training Drone.md",
+    "MEDIA/placement2.jpg",
+    "MEDIA/placement1.jpg",
     "MEDIA/paolo mugshot.png",
     "Tactical Phase/Player Character/Paolo Skillset.md",
-    "Tactical Phase/NME/Modern Bestiary/Junkyard Workbot.md",
     "PROD/BACKLOG.md",
     "PROD/Sprint 01 - CLOSED.md",
     "PROD/Sprint 02 - 18.10.2023.md",
     "Tactical Phase/NME/NME TAG/Distance Tag.md",
     "Tactical Phase/NME/NME TAG/Feral Tag.md",
     "Tactical Phase/NME/NME TAG/Strategic Tag.md",
-    "Tactical Phase/NME/Modern Bestiary/Training Drone.md",
     "Tactical Phase/UI/Tactical Phase - UI Interactif.md",
     "MEDIA/2023-10-04 16-12-50.mkv",
     "Tactical Phase/Tactical Phase Ruleset",
