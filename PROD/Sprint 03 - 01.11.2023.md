@@ -12,7 +12,7 @@ Nothing art related for this sprint
 
 ### Core Feature {Prog}
 
-
-- [ ] Clicker System 
-- [ ] UI Integration in relation with Clicker System (Numbers Roulette)
-- [ ] Debug Menu Step 02 - Attack
+- [x] Clicker System 
+- [x] UI Integration in relation with Clicker System (Numbers Roulette)
+- [x] Debug Menu Step 02 - Attack
+- [x] Weapon Base System
