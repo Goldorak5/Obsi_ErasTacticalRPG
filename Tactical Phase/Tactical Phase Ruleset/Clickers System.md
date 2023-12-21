@@ -28,3 +28,15 @@ Le type de clicker des compétences des personnages jouables pourront être augm
 Après un certain nombre d'utilisation d'une compétence offensive. Un Clicker de la compétence augmentera de pallier de type. Le joueur pourra décider d'augmenter le type d'un seul clicker à la fois ou pourra collectivement augmenter les paliers de tout les clickers d'une compétence selon ces préférences.
 
 L'augmentation survient à chaque fois qu'une compétence est utilisé 20 fois par le personnage jouable. À noter que l'augmentation de Clicker s'applique seulement aux compétences qui permettent leurs utilisations. 
+
+## Interprétation Visuelle 
+
+Chaque arme/compétence ont trois animations selon le résultat que le joueur ou les ennemies réussissent à saisir à la sélection de clickers.
+
+Les animations sont divisés selon cette charte:
+
+% de Réussite | Visuel
+-- | -- 
+En dessous du 1/3 obtenable | Animation maladroite 
+Équivalent à la 1/2 jusqu'à 2/3 obtenable | Animation standard
+Obtient la valeur maximale | Animation Épique démontrant le plein potentiel du personnage/ennemi

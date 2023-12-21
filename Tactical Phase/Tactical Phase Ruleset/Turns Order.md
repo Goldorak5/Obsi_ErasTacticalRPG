@@ -19,3 +19,8 @@ Si plusieurs personnages jouables ou ennemis ont la même initiative, les person
 
 Notre algorithme s'assure de ne jamais donner une initiative identique pour deux ennemis présent dans le même combat. Cette solution est valable grâce au nombre de point de mouvement variant des cibles ennemies.
 
+## Logique de caméra 
+
+Au début des tours, la caméra se centrera sur le personnage ou l'ennemi à qui est le tour. Cette logique s'applique à chaque fois que le tour d'une entité dans la phase de combat s'active.
+
+D'ailleurs, lors de moment de planification ou d'attente, le joueur peut bouger la caméra dans une axe cardinal afin de voir plus loin en haut/en bas/à gauche/à droite selon la position initiale de la caméra dans l'écran du joueur.
