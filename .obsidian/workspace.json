@@ -11,9 +11,11 @@
             "id": "593fc8359d821d50",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "MEDIA/Copie de PIXEL RAIN.png"
+                "file": "Tactical Phase/UI/Tactical Phase - UI Interactif.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDIA/Copie de PIXEL RAIN.png",
+                "file": "Tactical Phase/UI/Tactical Phase - UI Interactif.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEDIA/Copie de PIXEL RAIN.png",
+                "file": "Tactical Phase/UI/Tactical Phase - UI Interactif.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEDIA/Copie de PIXEL RAIN.png"
+                "file": "Tactical Phase/UI/Tactical Phase - UI Interactif.md"
               }
             }
           },
@@ -164,17 +166,18 @@
   },
   "active": "107539eaa32bba95",
   "lastOpenFiles": [
+    "Navigation Phase",
+    "Tactical Phase/NME/Modern Bestiary/Training Drone.md",
+    "Tactical Phase/NME/Modern Bestiary/Junkyard Workbot.md",
+    "MEDIA/Copie de PIXEL RAIN.png",
     "Tactical Phase/Player Character/Paolo Profile.md",
     "Tactical Phase/Tactical Phase Ruleset/Motivation-Demotivation Mechanics.md",
     "Tactical Phase/Tactical Phase Ruleset/Clickers System.md",
     "Tactical Phase/Tactical Phase Ruleset/Defensive Actions.md",
     "Tactical Phase/Tactical Phase Ruleset/Spawn Setup.md",
     "Tactical Phase/Tactical Phase Ruleset/Turns Order.md",
-    "MEDIA/Copie de PIXEL RAIN.png",
     "PROD/Sprint 04 - 02.01.2024.md",
     "PROD/Sprint 03 - 01.11.2023.md",
-    "Tactical Phase/NME/Modern Bestiary/Junkyard Workbot.md",
-    "Tactical Phase/NME/Modern Bestiary/Training Drone.md",
     "MEDIA/placement2.jpg",
     "MEDIA/placement1.jpg",
     "MEDIA/paolo mugshot.png",
