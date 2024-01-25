@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "593fc8359d821d50",
+            "id": "135f08e10c14610b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tactical Phase/UI/Tactical Phase - UI Interactif.md",
+                "file": "Navigation Phase/Overworld Exploration.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tactical Phase/UI/Tactical Phase - UI Interactif.md",
+                "file": "Navigation Phase/Overworld Exploration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tactical Phase/UI/Tactical Phase - UI Interactif.md",
+                "file": "Navigation Phase/Overworld Exploration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tactical Phase/UI/Tactical Phase - UI Interactif.md"
+                "file": "Navigation Phase/Overworld Exploration.md"
               }
             }
           },
@@ -143,7 +143,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -164,39 +166,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "107539eaa32bba95",
+  "active": "135f08e10c14610b",
   "lastOpenFiles": [
-    "Navigation Phase",
+    "Tactical Phase/Player Character/Profil de Paolo.md",
+    "Navigation Phase/Overworld Exploration.md",
+    "Tactical Phase/UI/Ui Interactif.md",
+    "Tactical Phase/Tactical Phase Ruleset/Système de Clickers.md",
+    "Tactical Phase/Tactical Phase Ruleset/Planification Tactique - Début de phase de combat.md",
+    "Tactical Phase/Tactical Phase Ruleset/Ordre des Tours.md",
+    "Tactical Phase/Tactical Phase Ruleset/Motivation & Démotivation.md",
+    "Tactical Phase/Tactical Phase Ruleset/Actions Défensives.md",
     "Tactical Phase/NME/Modern Bestiary/Training Drone.md",
     "Tactical Phase/NME/Modern Bestiary/Junkyard Workbot.md",
-    "MEDIA/Copie de PIXEL RAIN.png",
-    "Tactical Phase/Player Character/Paolo Profile.md",
-    "Tactical Phase/Tactical Phase Ruleset/Motivation-Demotivation Mechanics.md",
-    "Tactical Phase/Tactical Phase Ruleset/Clickers System.md",
-    "Tactical Phase/Tactical Phase Ruleset/Defensive Actions.md",
-    "Tactical Phase/Tactical Phase Ruleset/Spawn Setup.md",
-    "Tactical Phase/Tactical Phase Ruleset/Turns Order.md",
-    "PROD/Sprint 04 - 02.01.2024.md",
-    "PROD/Sprint 03 - 01.11.2023.md",
-    "MEDIA/placement2.jpg",
-    "MEDIA/placement1.jpg",
-    "MEDIA/paolo mugshot.png",
-    "Tactical Phase/Player Character/Paolo Skillset.md",
-    "PROD/BACKLOG.md",
-    "PROD/Sprint 01 - CLOSED.md",
     "PROD/Sprint 02 - 18.10.2023.md",
+    "PROD/Sprint 01 - CLOSED.md",
+    "PROD/BACKLOG.md",
+    "PROD/Sprint 03 - 01.11.2023.md",
+    "PROD/Sprint 04 - 02.01.2024.md",
+    "MEDIA/Pince 1.png",
+    "MEDIA/Paolo Punch.png",
+    "MEDIA/FT.png",
+    "MEDIA/dmoqyh5idmb81.gif",
+    "Untitled.canvas",
+    "MEDIA/vr1JBf.gif",
+    "MEDIA/dccnskz-07dbc065-1ed6-4f74-a81d-8f7ac405cd51.gif",
+    "MEDIA/flow_CommandeTactique.png",
+    "MEDIA/pmcs_03.jpg",
+    "MEDIA/screenshot-2022-09-13-151453-1663078502463.png",
+    "Navigation Phase",
+    "MEDIA/Copie de PIXEL RAIN.png",
+    "Tactical Phase/Player Character/Paolo Skillset.md",
     "Tactical Phase/NME/NME TAG/Distance Tag.md",
     "Tactical Phase/NME/NME TAG/Feral Tag.md",
     "Tactical Phase/NME/NME TAG/Strategic Tag.md",
-    "Tactical Phase/UI/Tactical Phase - UI Interactif.md",
     "MEDIA/2023-10-04 16-12-50.mkv",
     "Tactical Phase/Tactical Phase Ruleset",
-    "MEDIA/Workbot 02.png",
-    "MEDIA/Workbot 01.png",
-    "MEDIA/Junkyard Workbot.png",
-    "MEDIA/Engrenage.png",
-    "MEDIA/Électro.png",
-    "MEDIA/Pince 1.png",
     "Tactical Phase/NME/Modern Bestiary",
     "Tactical Phase/NME/Training Drone.md",
     "Tactical Phase/NME/Modern Bestiary.md",
@@ -206,7 +210,6 @@
     "MEDIA",
     "Tactical Phase/NME/NME TAG",
     "Tactical Phase",
-    "PROD",
-    "Tactical Phase/Player Character"
+    "PROD"
   ]
 }
