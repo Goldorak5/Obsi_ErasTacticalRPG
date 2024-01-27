@@ -3,7 +3,7 @@
 Le système de clicker sert de méthode d'attaque pour les compétences autant joueur qu'ennemi. Les clickers sont comparables au dés à plusieurs faces dans les jeux de rôles classiques. Par contre le joueur a une influence sur le résultat en appuyant sur le bouton de sélection au bon moment.
 ## Type de Clickers
 
-Tout comme les dés de jeux de table classique, les Clickers ont des nombres pairs allant de 1 à 12. 
+Tout comme les dés de jeux de table classique, les Clickers ont des nombres allant de 1 à 12. 
 
 **Clickers Novice** : Chiffre de 1 à 4. 
 
