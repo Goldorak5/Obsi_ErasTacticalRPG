@@ -1,4 +1,4 @@
-![[paolo mugshot.png]]
+![[Lethal Headshot-export.png]]
 *Type*: Mécanique
 
 *Armure de base* : 20

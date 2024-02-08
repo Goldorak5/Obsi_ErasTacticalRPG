@@ -1,4 +1,6 @@
 ![[Kuro 1.png]]
+![[Kuro01.png]]
+
 *Type*: Mécanique
 
 *Armure de base* : 15
